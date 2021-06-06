@@ -1,0 +1,1 @@
+# QAG-20-mobile-browserstack
